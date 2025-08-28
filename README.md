@@ -1,3 +1,4 @@
 # newproject
-this is first project
-Auther - Falak Ansari
+This is the first project
+<br>
+Author - Falak Ansari
